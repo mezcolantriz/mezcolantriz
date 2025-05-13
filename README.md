@@ -42,4 +42,4 @@ Mezclo creatividad, análisis y pasión por resolver problemas complejos con dat
 
 ---
 
-✨ _“Una mezcolanza curiosa y peculiar que quiere hacer magia con datos y pasión por resolver problemas.”_
+
