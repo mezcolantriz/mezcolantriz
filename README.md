@@ -5,10 +5,10 @@
 **Científica de Datos | Desarrolladora Python | Experta en Viajes de Golf**
 
 Mezclo creatividad, análisis y pasión por resolver problemas complejos con datos.  
-Tras 10 años en turismo y golf y formarme en Data Science, desarrollo soluciones inteligentes para automatizar procesos y resolver retos reales y empresariales.
+Tras 10 años trabajando en turismo y golf y formarme en Data Science, desarrollo soluciones inteligentes para automatizar procesos y resolver retos reales y empresariales.
 
 I blend creativity, analytics, and a passion for solving complex problems with data.  
-After 10 years in tourism and golf and training in Data Science, I now develop smart solutions to automate processes and tackle real-world and business challenges.
+After 10 years working in tourism and golf and  now training in Data Science, I now develop smart solutions to automate processes and tackle real-world and business challenges.
 
 ---
 
