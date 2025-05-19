@@ -1,18 +1,30 @@
-# ¡Hola, soy Beatriz Solana! 👩‍💻✨
+# ¡Hola, soy Beatriz Solana! 👩‍💻✨  
+# Hi there, I'm Beatriz Solana! 👩‍💻✨
 
-**Data Scientist | Python Developer | Experta en viajes de golf**
+**Data Scientist | Python Developer | Golf Travel Expert**  
+**Científica de Datos | Desarrolladora Python | Experta en Viajes de Golf**
 
-Mezclo creatividad, análisis y pasión por resolver problemas complejos con datos. Tras 10 trabajando en el sector turístico y de golf y formarme en Data Science, hoy desarrollo soluciones inteligentes para automatizar procesos y crear productos útiles para los problemas que puedan surgir en el mundo real y empresarial.
+Mezclo creatividad, análisis y pasión por resolver problemas complejos con datos.  
+Tras 10 años en turismo y golf y formarme en Data Science, desarrollo soluciones inteligentes para automatizar procesos y resolver retos reales y empresariales.
+
+I blend creativity, analytics, and a passion for solving complex problems with data.  
+After 10 years in tourism and golf and training in Data Science, I now develop smart solutions to automate processes and tackle real-world and business challenges.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados · Featured Projects
 
 - 🎵 [MoodTune](https://github.com/mezcolantriz/MoodTune): Recomendador musical con NLP y audio features.  
-  _🧠 Proyecto final ganador de cohort de Data Science Spain nº 11._
+  _🧠 Proyecto final ganador de la cohorte 11 de Data Science Spain._
+
+  🎵 [MoodTune](https://github.com/mezcolantriz/MoodTune): Music recommender using NLP and audio features.  
+  _🧠 Final project winner of Data Science Spain Cohort #11._
 
 - 🚌 [Data Transfers Automator](https://github.com/mezcolantriz): Automatización de reservas de transfers para golfistas.  
   _📍 Ahorra tiempo y errores para agencias de viajes._
+
+  🚌 [Data Transfers Automator](https://github.com/mezcolantriz): Transfer reservation automation for golf travelers.  
+  _📍 Saves time and reduces errors for travel agencies._
 
 ---
 
@@ -23,17 +35,16 @@ Mezclo creatividad, análisis y pasión por resolver problemas complejos con dat
 
 ---
 
-## 📚 Formación
+## 📚 Formación · Education
 
-- Data Science & Machine Learning · *4Geeks Academy* (2024-2025)  
-- Backend con Python, Flask y Django · *IBM Skills Network* feb-mayo2025 *Currently
-- Python, SQL, HTML5, CSS3, JavaScript · *SEF & MIMO*
-
-- iFP DAW. *FP superior en Planeta* (2025-2027) *Currently
+- Data Science & Machine Learning · *4Geeks Academy* (2024–2025)  
+- Backend with Python, Flask & Django · *IBM Skills Network* (Feb–May 2025) *(Ongoing)*  
+- Python, SQL, HTML5, CSS3, JavaScript · *SEF & MIMO*  
+- iFP DAW · *Higher Vocational Training - Planeta* (2025–2027) *(Ongoing)*
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Conecta conmigo · Let’s connect!
 
 📍 Murcia, España  
 📧 solana93@gmail.com  
