@@ -31,7 +31,7 @@ After 10 years working in tourism and golf and  now training in Data Science, I 
 ## 🛠 Tech Stack
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Flask` · `Streamlit`  
-`TensorFlow` · `PyTorch` · `NLP` · `GitHub` · `SQL` · `Web scraping` · `EDA`
+`TensorFlow` · `PyTorch` · `NLP` · `GitHub` · `SQL` · `Web scraping` · `EDA`· `Hugging Face`
 
 ---
 
