@@ -12,6 +12,26 @@ After 10 years working in tourism and golf and  now training in Data Science, I 
 
 ---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Flask` · `Streamlit`  
+`TensorFlow` · `PyTorch` · `NLP` · `GitHub` · `SQL` · `Web scraping` · `EDA`· `Hugging Face`
+`PowerBI` . `Java`
+
+---
+
+## 📚 Formación · Education
+
+- iFP DAM - Higher Technician in Multiplatform Application Development· *Higher Vocational Training - *Ifp Planeta* (2025–2027) *(Ongoing)*
+- Data Science & Machine Learning · *4Geeks Academy* (2024–2025)
+- PowerBI · *IBM Skills Network* *DataHack* (2026)  
+- Backend with Python, Flask & Django · *IBM Skills Network* (2025)  
+- Python, SQL, HTML5, CSS3, JavaScript · *SEF & MIMO*  
+
+
+---
+
 ## 🚀 Proyectos Destacados · Featured Projects
 
 - 🎵 [MoodTune](https://github.com/mezcolantriz/MoodTune): Recomendador musical con NLP y audio features.  
@@ -28,24 +48,6 @@ After 10 years working in tourism and golf and  now training in Data Science, I 
 
 ---
 
-## 🛠 Tech Stack
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Flask` · `Streamlit`  
-`TensorFlow` · `PyTorch` · `NLP` · `GitHub` · `SQL` · `Web scraping` · `EDA`· `Hugging Face`
-`PowerBI` . `Java`
-
----
-
-## 📚 Formación · Education
-
-- iFP DAW · *Higher Vocational Training - *Ifp Planeta* (2025–2027) *(Ongoing)*
-- Data Science & Machine Learning · *4Geeks Academy* (2024–2025)
-- PowerBI · *IBM Skills Network* *DataHack* (2026)  
-- Backend with Python, Flask & Django · *IBM Skills Network* (2025)  
-- Python, SQL, HTML5, CSS3, JavaScript · *SEF & MIMO*  
-
-
----
 
 ## 📫 Conecta conmigo · Let’s connect!
 
