@@ -32,15 +32,18 @@ After 10 years working in tourism and golf and  now training in Data Science, I 
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Flask` · `Streamlit`  
 `TensorFlow` · `PyTorch` · `NLP` · `GitHub` · `SQL` · `Web scraping` · `EDA`· `Hugging Face`
+`PowerBI` . `Java`
 
 ---
 
 ## 📚 Formación · Education
 
-- Data Science & Machine Learning · *4Geeks Academy* (2024–2025)  
-- Backend with Python, Flask & Django · *IBM Skills Network* (Feb–May 2025) *(Ongoing)*  
+- iFP DAW · *Higher Vocational Training - *Ifp Planeta* (2025–2027) *(Ongoing)*
+- Data Science & Machine Learning · *4Geeks Academy* (2024–2025)
+- PowerBI · *IBM Skills Network* *DataHack* (2026)  
+- Backend with Python, Flask & Django · *IBM Skills Network* (2025)  
 - Python, SQL, HTML5, CSS3, JavaScript · *SEF & MIMO*  
-- iFP DAW · *Higher Vocational Training - Planeta* (2025–2027) *(Ongoing)*
+
 
 ---
 
