@@ -1,5 +1,5 @@
-# ¡Hola, soy Beatriz Solana! 👩‍💻✨  
-# Hi there, I'm Beatriz Solana! 👩‍💻✨
+# ¡Hola, soy Beatriz Solana! 👩‍💻 
+## Hi there, I'm Beatriz Solana! 👩‍💻
 
 **Data Scientist | Python Developer | Golf Travel Expert**  
 **Científica de Datos | Desarrolladora Python | Experta en Viajes de Golf**
